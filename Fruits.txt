@@ -10,3 +10,4 @@ Blackcurrant
 Clementine
 Cherries
 DateFruit
+cherry
