@@ -17,7 +17,7 @@ public class GuessingNumberGame {
                     System.out.println("its greater :" + num);
                 }
             if(random<num){
-                    System.out.println("its lesser than:"+num);
+                    System.out.println("its lesser than:.."+num);
                 }
 System.out.println("your chances left are:"+((10-i)-1));
         }
