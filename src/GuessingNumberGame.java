@@ -14,7 +14,7 @@ public class GuessingNumberGame {
                 break;
             }
              if(random>num) {
-                    System.out.println("its greater than:" + num);
+                    System.out.println("its greater :" + num);
                 }
             if(random<num){
                     System.out.println("its lesser than:"+num);
